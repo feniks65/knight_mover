@@ -1,2 +1,2 @@
 # knight_mover
-Practice python 
+Practice python knight mover
